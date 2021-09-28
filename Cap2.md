@@ -1,0 +1,1 @@
+Alteração para gerar conflito.
